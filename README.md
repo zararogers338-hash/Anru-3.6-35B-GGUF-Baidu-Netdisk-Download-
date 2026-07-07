@@ -28,6 +28,12 @@ Anru3.6-35B 是一款跨性别友好的 35B 参数人工智能大语言模型，
 
 本模型面向跨性别者及其支持者，旨在提供更尊重、更包容、更安全的中文与英文对话体验。模型训练与优化过程中使用了 31,500 条经授权的跨性别友好心理支持对话与日常支持性聊天内容。这些内容由三位跨性别者、两位具有 5 年以上跨性别救助经验的义工，以及两名具有 5 年以上咨询经验且明确支持跨性别者的心理咨询师共同审阅，确认其对跨性别者具有友好性与正向心理支持意义。
 
+                                                                                                          
+                   
+
 本项目希望为跨性别者提供一个更具理解力、包容性与心理支持意义的 AI 对话工具。
 
 由于模型文件 Anru3.6-35B.gguf 体积约为 64.61GB，超过 GitHub 单文件上传限制，因此模型文件通过百度网盘公开分享。
+
+Project Leaders: Qiang Cao, Liangjing Xia, Buorui Zhang, Zijun Yan
+Special Thanks to: Ripple China Transgender Rescue Center and all psychologists, social workers, and transgender individuals participating in this project
