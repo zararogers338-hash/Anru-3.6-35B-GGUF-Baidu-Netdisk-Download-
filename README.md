@@ -36,4 +36,6 @@ Anru3.6-35B 是一款跨性别友好的 35B 参数人工智能大语言模型，
 由于模型文件 Anru3.6-35B.gguf 体积约为 64.61GB，超过 GitHub 单文件上传限制，因此模型文件通过百度网盘公开分享。
 
 Project Leaders: Qiang Cao, Liangjing Xia, Buorui Zhang, Zijun Yan
+
+
 Special Thanks to: Ripple China Transgender Rescue Center and all psychologists, social workers, and transgender individuals participating in this project
